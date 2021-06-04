@@ -95,3 +95,5 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 #### • 𝙺𝙴𝙸𝙽𝚂𝙷𝙸𝙽 »»  <a href="https://github.com/KeinShin" alt="Keinshin"> <img src="https://img.shields.io/badge/Keinshin-536eff?logo=github" /></a>
 
+##### • 𝙼𝙳 𝙽𝙾𝙾𝚁 - 𝙳𝙴𝚅  »»  <a href="telegram.dog/SimpleBoy786" alt="Mdnoor"> <img src="https://img.shields.io/badge/Md%20Noor-536eff?logo=Telegram" /></a>
+##### • 𝚂𝙷𝙰𝚂𝙷𝙰𝙽𝙺 𝚇𝙳 - 𝙳𝙴𝚅  »»  <a href="telegram.dog/ShashankxD" alt="Shashank"> <img src="https://img.shields.io/badge/ShashanK%20xD-536eff?logo=telegram" /></a>
