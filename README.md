@@ -1,5 +1,5 @@
-
-
+ᴏᴡɴᴇʀ: [𝓜𝓭 𝓝𝓸𝓸𝓻](telegram.dog/SimpleBoy786)
+ᴄᴏ-ᴏᴡɴᴇʀ: [🇮🇳 𝐒𝐀𝐕𝐀𝐆𝐄 | 𝙎𝙃𝘼𝙎𝙃𝘼𝙉𝙆 𝙁𝙏𝙒 𝖋𝖑𝖆𝖒𝖊 ✘ 𝗧𝗘𝗔𝗠 𝗕𝗟𝗔𝗖𝗞 𝗖𝗢𝗣𝗦 𓆩x-ғᴏʀᴄᴇ𓆪 #ɢօɖֆ🇮🇳 #𝗣𝙊𝗶𝗦𝙊𝗡×𝗙𝗶𝗚𝗛𝗧3𝗥𝗦🇮🇳](telegram.dog/ShashankxD)
 
 <p align="center">
     <a href="https://app.codacy.com/manual/Mdnoor786/Lion/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
