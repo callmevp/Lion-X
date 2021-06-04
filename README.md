@@ -1,5 +1,4 @@
-##### • 𝙼𝙳 𝙽𝙾𝙾𝚁 - 𝙾𝚆𝙽𝙴𝚁  »»  <a href="telegram.dog/SimpleBoy786" alt="Mdnoor"> <img src="https://img.shields.io/badge/Md%20Noor-536eff?logo=Telegram" /></a>
-##### • 𝚂𝙷𝙰𝚂𝙷𝙰𝙽𝙺 𝚇𝙳 - 𝙲𝙾-𝙾𝚆𝙽𝙴𝚁 »»  <a href="telegram.dog/ShashankxD" alt="Shashank"> <img src="https://img.shields.io/badge/ShashanK%20xD-536eff?logo=telegram" /></a>
+
 
 <p align="center">
     <a href="https://app.codacy.com/manual/Mdnoor786/Lion/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -94,6 +93,8 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 #### • 𝚃𝙴𝙻𝙴𝙱𝙾𝚃 - 𝚇𝙳𝙸𝚃𝚈𝙰   »»  <a href="https://github.com/Xditya/Telebot" alt="Telebot"> <img src="https://img.shields.io/badge/Telebot%20Xditya-800080?logo=github" /></a>
 
 #### • 𝙺𝙴𝙸𝙽𝚂𝙷𝙸𝙽 »»  <a href="https://github.com/KeinShin" alt="Keinshin"> <img src="https://img.shields.io/badge/Keinshin-536eff?logo=github" /></a>
+
+###### 𝙳𝙴𝚅
 
 ##### • 𝙼𝙳 𝙽𝙾𝙾𝚁 - 𝙳𝙴𝚅  »»  <a href="telegram.dog/SimpleBoy786" alt="Mdnoor"> <img src="https://img.shields.io/badge/Md%20Noor-536eff?logo=Telegram" /></a>
 ##### • 𝚂𝙷𝙰𝚂𝙷𝙰𝙽𝙺 𝚇𝙳 - 𝙳𝙴𝚅  »»  <a href="telegram.dog/ShashankxD" alt="Shashank"> <img src="https://img.shields.io/badge/ShashanK%20xD-536eff?logo=telegram" /></a>
