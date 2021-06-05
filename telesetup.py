@@ -1,5 +1,7 @@
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
+import os 
+os system("pip install telethon==1.21.1")
 
 print("""𝙿𝙻𝙴𝙰𝚂𝙴 𝙶𝙾 𝚃𝙾 my.telegram.org
 𝙻𝙾𝙶𝙸𝙽 𝚄𝚂𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙰𝙲𝙲𝙾𝚄𝙽𝚃
