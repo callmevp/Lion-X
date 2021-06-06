@@ -36,18 +36,19 @@
 - [telebot](https://GitHub.com/xditya/telebot)
 
 
-## 𝚂𝙴𝙻𝙵 𝙷𝙾𝚂𝚃 𝙵𝙾𝚁 𝙳𝙴𝚅 👨‍💻
+### The Normal Way
 
-```
-git clone https://github.com/Mdnoor786/Lion
-cd Lion
+Simply clone the repository and run the main file:
+```sh
+git clone https://github.com/TeamLion-X/Lion-X
+cd Lion-X
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt
+pip install -r Xsetup.txt
 # <Create local_config.py with variables as given below>
-python3 -m Lion
-
+python3 yourstepsis.py
 ```
+
 An example `local_config.py` file could be:
 
 **Not All of the variables are mandatory**
@@ -76,6 +77,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
+
 
 # Disclaimer
 ```
