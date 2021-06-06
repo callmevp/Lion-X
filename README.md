@@ -30,6 +30,9 @@
 
 ##### Documention coming soon 🔜
 
+## INSPIRED BY 🗡️
+- [telebot](https://GitHub.com/xditya/telebot)
+
 
 ## 𝚂𝙴𝙻𝙵 𝙷𝙾𝚂𝚃 𝙵𝙾𝚁 𝙳𝙴𝚅 👨‍💻
 
