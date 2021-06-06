@@ -40,7 +40,7 @@
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/TeamLion-X/Lion-X
+git clone https://github.com/mdnoor786/Lion-X
 cd Lion-X
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
