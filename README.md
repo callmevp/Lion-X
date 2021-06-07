@@ -13,6 +13,7 @@
   <img src="./Lion-X Logo/IMG_20210603_220209_526.jpg" alt="Lion ub">
 </p>
 
+<p align="left"><a href="https://github.com/TeamLion-X/Lion-X"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamLion-X&show_icons=true&theme=white&hide_border=true&repo=Lion-X"></a></p>
 
 
 <a href="https://t.me/LionXupdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-536eff.svg?style=for-the-badge&logo=Telegram"></a>
