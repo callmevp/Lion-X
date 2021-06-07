@@ -93,7 +93,8 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 /**
 ```
 ```
-This bot is a modified version of telebot 
+This bot is a modified version of telebot and dark cobra 🛠️ 🧑 🛠️
+                                                            👖
 ```
 
 ## 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 
