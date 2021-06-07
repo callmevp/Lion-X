@@ -34,6 +34,7 @@
 
 ## INSPIRED BY 🗡️
 - [telebot](https://GitHub.com/xditya/telebot)
+- [Dark cobra 🐍](https://github.com/DARK-COBRA/DARKCOBRA)
 
 
 ### The Normal Way
