@@ -92,7 +92,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 	point your fingers at me, I'll be rolling on the floor laughing at you.
 /**
 ```
-
+```
+This bot is a modified version of telebot 
+```
 
 ## 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 
 
